@@ -1,3 +1,3 @@
-# ***Portfolio***
+# My Portfolio
 
-## https://jaditi930.github.io/MyPortfolio/
+## https://jaditi930.github.io/My-Portfolio/
